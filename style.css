@@ -22,10 +22,8 @@ p {
 #photo-border {
 	border: 2px;
 	color:#00FF00
-}
-#photo-resize {
 	max-width:250px;
 	max-height:300px
 }
 		
-}
+
