@@ -1,12 +1,15 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Victor Yeh
+ *UnityID: vsyeh
+ *Date: 9/29/19
+ *Assignment: Website and CSS Independent Assignment
+ *Description: Styling the Independent Assignment
  */
  
 p {
+	font-family:Times ;
+	font-size: 16px;
+	color:#800080
     property: value;
 }
 
@@ -14,6 +17,10 @@ p {
     property: value;
 }
 
-#id {
-    property:value;
+.table-border {
+	border: 2px;
+#photo-border
+	border: 2px;
+	color:#00FF00
+		
 }
